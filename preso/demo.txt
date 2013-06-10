@@ -1,0 +1,41 @@
+Visual Tour
+
+Open the app.
+Mention how every aspect of this app is built with web standards.
+Mention the tooltip example. 
+Left side is current project and open files.
+Show 2 files open and mention it doesn't use tabs.
+
+Show project drop down
+Show how I can clear them
+Switch to testingzone, show project settings
+
+Adjust gutter
+Show/hide gutter
+
+
+Major Features
+Live Development
+
+Show editing CSS for welcome. Show it updating live.
+Show editing the HTML, save it, and then it renders live.
+Mention JS live editing is possible and you can see it in blog post.
+
+Quick Edit
+
+Show alt-e on h1 and body
+Show it on a color in css
+Show it on my JavaScript
+
+Quick Open
+cmd+shit+0
+
+JSLint
+
+Extensions
+Show debug option to show folder
+Show CanIUse
+Show MDN - Shift COMMAND e (Mention Dev Tools)
+Show Snippets
+Show inline image view in test.html in testing zone
+

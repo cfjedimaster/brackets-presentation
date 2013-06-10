@@ -1,0 +1,31 @@
+
+Visual Tour:
+Opened like any other application. NOT Running in a browser!
+drop down of recent projects
+Folder based, not project based. 
+
+
+Live Preview
+
+Inline Editing
+remember to cmd+e on a color too
+
+Quick Open
+Alt+Shift+Open
+
+
+
+
+Source code:
+editing styles/brackets_theme_default.less
+mention how I fixed file name in query
+
+extensions
+
+more extensions
+Show PhoneGap Build
+
+Edge Code
+What the Frak?
+
+Show font chooser
